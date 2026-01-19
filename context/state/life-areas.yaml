@@ -1,0 +1,26 @@
+# Current State of Life Areas
+
+fitness:
+  status: "Recovering"
+  details: "Recovering from torn meniscus. Handstand hold 30s."
+health:
+  status: "Improving"
+  details: "Sleep quality improving on keto."
+investments:
+  portfolio_value: 1620000.00
+  ytd_gain_percent: 30.19
+  cash_allocation_percent: 40.1
+work:
+  status: "Ramping"
+  role: "Shopify Sidekick Team"
+  start_date: "2026-01-12"
+home:
+  status: "Selling"
+  details: "Selling current home, staging/photos/listing timeline."
+family:
+  status: "Active"
+  events:
+    - "Result: Bryan's 18th birthday Feb 10"
+side_business:
+  status: "Ideating"
+  details: "LLC active. Ideating phase."
