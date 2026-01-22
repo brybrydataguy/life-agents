@@ -6,16 +6,25 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "google-api-python-client>=2.188.0",
+    "marimo>=0.9.0",
+    "matplotlib>=3.10.8",
+    "numpy>=1.24.0",
     "pandas>=2.3.3",
+    "plotly>=5.18.0",
     "polars>=1.37.1",
     "pydantic-settings>=2.12.0",
+    "python-dotenv>=1.0.0",
+    "requests>=2.31.0",
     "rich>=14.2.0",
+    "seaborn>=0.13.2",
     "typer>=0.21.1",
+    "yfinance>=0.2.0",
 ]
 
 [project.scripts]
 life = "life_agents.cli:app"
 new-research = "scripts.tools.new_research:app"
+prediction-dashboard = "research.2026-01-19.2026-predictions-with-dan-ives-and-chris-verrone.analysis.prediction_dashboard:app"
 
 [build-system]
 requires = ["hatchling"]

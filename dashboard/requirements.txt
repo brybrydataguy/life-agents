@@ -1,0 +1,11 @@
+marimo>=0.9.0
+pandas>=2.3.3
+numpy>=1.24.0
+plotly>=5.18.0
+matplotlib>=3.10.8
+seaborn>=0.13.2
+polars>=1.37.1
+yfinance>=0.2.0
+python-dotenv>=1.0.0
+pydantic-settings>=2.12.0
+uvicorn>=0.30.0
