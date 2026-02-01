@@ -1,5 +1,7 @@
 # Current State of Life Areas
 
+TODO: make this markdown - not ymal
+
 fitness:
   status: "Recovering"
   details: "Recovering from torn meniscus. Handstand hold 30s."

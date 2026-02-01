@@ -1,6 +1,6 @@
 # Purpose
 
-I am currently trying to determine my life's purpose.
+I am currently trying to determine my life's purpose.  This is a work in progress.   I do not have an answer that resonates.
 
 ## Some thoughts
 
@@ -10,6 +10,3 @@ I am currently trying to determine my life's purpose.
 - I want to feel meaning and connection every day
 - I want to define my life in a way that maintains joy, autonomy, power and fulfillment
 - I want to feel pulled into life vs pushing into life
-
-
-

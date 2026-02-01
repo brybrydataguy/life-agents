@@ -1,0 +1,30 @@
+[
+  {
+    "form": "10-Q",
+    "filing_date": "2025-11-04",
+    "period_end": "2025-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000089/shop-20250930.htm",
+    "accession": "0001594805-25-000089"
+  },
+  {
+    "form": "10-Q",
+    "filing_date": "2025-08-06",
+    "period_end": "2025-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000073/shop-20250630.htm",
+    "accession": "0001594805-25-000073"
+  },
+  {
+    "form": "10-Q",
+    "filing_date": "2025-05-08",
+    "period_end": "2025-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000046/shop-20250331.htm",
+    "accession": "0001594805-25-000046"
+  },
+  {
+    "form": "10-K",
+    "filing_date": "2025-02-11",
+    "period_end": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000012/shop-20241231.htm",
+    "accession": "0001594805-25-000012"
+  }
+]

@@ -213,3 +213,6 @@ plots/
 # Keep directory structure but ignore content
 !data/.gitkeep
 !plots/.gitkeep
+
+# mac
+.DS_Store

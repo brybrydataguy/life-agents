@@ -3,5 +3,13 @@
   "editor.wordWrapColumn": 100,
   "editor.rulers": [
     100
-  ]
+  ],
+  "[markdown]": {
+    "editor.quickSuggestions": {
+      "other": false,
+      "comments": false,
+      "strings": false
+    },
+    "editor.wordBasedSuggestions": "off"
+  },
 }

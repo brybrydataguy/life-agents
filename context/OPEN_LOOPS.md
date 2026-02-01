@@ -2,6 +2,9 @@
 
 - [ ] Bryan Scott SMI facility placement
 - [ ] Bryan Scott special needs trust accounting
+- [ ] Bryan Scott guardianship
 - [ ] Cecilia's Living Trust executor delays
-- [ ] Wells Fargo mortgage rollover
-- [ ] LLC minimum tax payment
+- [ ] Cecilia's Taxes
+- [ ] 2025 Taxes
+- [ ] 
+
