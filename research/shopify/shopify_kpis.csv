@@ -1,5 +1,0 @@
-metric,period_type,units,2015,2016,2022,2023,2024,filing_date,period_end,source
-MRR,Annual,millions,,,109.0,144.0,178.0,2025-02-11,2024-12-31,https://www.sec.gov/Archives/edgar/data/1594805/000159480525000012/shop-20241231.htm
-GMV,Annual,millions,,,197167.0,235910.0,292275.0,2025-02-11,2024-12-31,https://www.sec.gov/Archives/edgar/data/1594805/000159480525000012/shop-20241231.htm
-MRR,Annual,thousands,11335.0,18461.0,,,,2017-02-15,2016-12-31,https://www.sec.gov/Archives/edgar/data/1594805/000159480517000007/exhibit13mdaf2016.htm
-GMV,Annual,thousands,7706661.0,15374166.0,,,,2017-02-15,2016-12-31,https://www.sec.gov/Archives/edgar/data/1594805/000159480517000007/exhibit13mdaf2016.htm
