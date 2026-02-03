@@ -14,7 +14,7 @@
 
 1. **I am present and kind with the people I love.**
 2. **I solve meaningful problems with rigor and care.**
-3. **I create security that enables aliveness.**
+3. **I create security that fosters aliveness.**
 4. **I am enough, right now, as I am.**
 
 --- 
